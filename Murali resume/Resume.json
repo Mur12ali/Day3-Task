@@ -1,0 +1,70 @@
+{
+    "basics" :{
+    "name" : "Murali Palukuru",
+    "label" : "Junior analyst",
+    "image" : "",
+    "email" : "murlipalukooru2@gmail.com",
+    "phone" : 8885139919,
+    "summary" : "A fast learning problem solver with proven analytical and proven skills.",
+    "location" : {
+        "address" : "13-108,Gandhi Road,Sathyavedu",
+        "Postal code" : 517588,
+        "city" : "Tirupati",
+        "state" : "Andhra Pradesh",
+        "region" : "India"
+    },
+     "work" : [{
+        "name" : "Turningpoint software solutions",
+        "position" : "Junior analyst",
+        "Start date" : "13-02-2020"
+     }],
+     "education" :[{
+        "institution" : "Sri Kalahastheeswara Institute Of Technology",
+        "area" : "Sri Kalahasti",
+        "studyType" : "B.Tech",
+        "Department": "mechanical",
+        "StartDate" : "20-06-2012",
+        "EndDate" : "27-06-2016",
+        "Gpa" : 6.7
+    }
+     ],
+     "projects" : [{
+        "mainProject" : "Robotic Prosthetic Arm"
+     }],
+    "skills" : [{
+        "name" : "Auto CADD,Revit CATIA"
+    }],
+    "languages" : [
+        {
+        "language" : "English",
+        "fluency" : "ability to speak without effort"
+        },    
+
+        {
+        "language" : "Telugu",
+        "fluency" : "Native speaker"
+        },
+        
+        {
+        "language" : "Tamil",
+        "fluency"  : "ability to speak without effort"
+        }
+    ],
+
+        "Other Activities" : [{
+        "name" : "Cricket,Kabaddi"
+    }
+    ],
+    "References" : [
+        {
+        "name" : "Satheesh",
+        "Reference" : "Satheesh is my team leader in Turningpoint software solutions."
+        },
+
+        {
+        "name" : "Prabhakar",
+        "Reference" : "Prabhakar was my professor in college helped to complete my BE"
+        }
+]
+
+    }}
